@@ -1,0 +1,7 @@
+{
+  "servers": {
+    "weather": {
+      "url": "http://192.168.10.101/mcp"
+    }
+  }
+}
