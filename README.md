@@ -36,13 +36,13 @@ From the `src` folder, run:
 This starts the server in autoreload mode (useful for development). Access it from your browser at:
 
 ```bash
-http://localhost:8000/
+http://localhost:8000/mcp/
 ```
 
 Or from another machine on the network using your Raspberry Pi's IP:
 
 ```bash
-http://192.168.10.101:8000/
+http://192.168.10.101:8000/mcp/
 ```
 
 ---
